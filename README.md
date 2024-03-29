@@ -20,6 +20,7 @@ Revi e aprendi a usar algumas formulas no excel como procv, sumif, countif, trab
 ## Imagens e Gráficos  
 
 - Base de Dados
+  
 ![Base de Dados](imagens/base_bolsa.jpg)
 
 - Procv/VLookup
@@ -27,12 +28,15 @@ Revi e aprendi a usar algumas formulas no excel como procv, sumif, countif, trab
 ![Procv](imagens/Procv.jpg)
 
 - Resultado
+  
 ![Resultado](imagens/resultado.jpg)
 
 - Variação por Segmento
+  
 ![Variação por Segmento](imagens/Var_seg_excel.jpg)
 
 - Gráfico de Velas - Candlestick
+  
 ![Gráfico de Velas - Candlestick](imagens/Var_graph.jpg)
 
 
