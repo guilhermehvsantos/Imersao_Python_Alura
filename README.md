@@ -23,9 +23,10 @@ Revi e aprendi a usar algumas formulas no excel como procv, sumif, countif, trab
 ![Base de Dados](imagens/base_bolsa.jpg)
 
 - Procv/VLookup
+
 ![Procv](imagens/Procv.jpg)
 
--Resultado
+- Resultado
 ![Resultado](imagens/resultado.jpg)
 
 - Variação por Segmento
